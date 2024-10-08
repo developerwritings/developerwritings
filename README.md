@@ -1,6 +1,6 @@
 Hi, I’m @developerwritings
 
-Working on the following Stack 
+Working and imporving skills using the following Stack 
 
    - Go
    - Python
